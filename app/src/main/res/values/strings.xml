@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login_design</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="dont_hava_ana_account_signup">Dont Hava ana account? Signup</string>
+</resources>
