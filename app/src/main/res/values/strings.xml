@@ -3,5 +3,5 @@
     <string name="enter_password">Enter Password</string>
     <string name="enter_email">Enter Email</string>
     <string name="login">Login</string>
-    <string name="dont_hava_ana_account_signup">Dont Hava ana account? Signup</string>
+    <string name="don_t_have_an_account_signup">Don\'t Have an account? Signup</string>
 </resources>

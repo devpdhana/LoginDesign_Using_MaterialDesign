@@ -44,6 +44,7 @@
             android:layout_marginEnd="20dp"
             android:layout_marginTop="20dp"
             android:id="@+id/edtEmail"
+            app:startIconDrawable="@drawable/ic_baseline_account_circle_24"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             >
 
@@ -70,6 +71,7 @@
                 android:layout_marginTop="20dp"
                 android:id="@+id/edtPassword"
                 app:passwordToggleEnabled="true"
+                app:startIconDrawable="@drawable/ic_baseline_password"
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
                 >
 
@@ -106,8 +108,8 @@
                 app:layout_constraintBottom_toBottomOf="parent"
                 android:layout_margin="20dp"
                 android:id="@+id/txtSignup"
-                android:text="@string/dont_hava_ana_account_signup"
-                android:textSize="18sp"
+                android:text="@string/don_t_have_an_account_signup"
+                android:textSize="14sp"
                 android:textStyle="bold"
                 android:textColor="@color/black"/>
 
